@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/Feature"
         ,glue={"StepDefination"}
-        ,tags= "@verifyFindCenter"
+        ,tags= "@brightHorizon"
 
 )
 public class TestRunner {
